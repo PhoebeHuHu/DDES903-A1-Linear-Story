@@ -1,8 +1,6 @@
 # Overview
-Quick prototyping interaction toolkit intended for non coders
-
-Quick, 23 minute video guide below: https://youtu.be/mIoewQ2zQBI
-
+DDES-9903-Narrative and Sensemaking - Assignment 1
+After learning she had won the lottery jackpot, Celine excitedly planned how to spend the money, only to discover the ticket was missing when she went to claim her prize. Eventually, she picked herself up from the disappointment, resolved to face reality, and embrace a new life ahead.
 # Licensing Info
 by Matt Cabanag https://www.linkedin.com/in/mattavc/
 
