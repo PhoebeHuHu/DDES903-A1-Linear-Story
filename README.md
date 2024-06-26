@@ -23,14 +23,22 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * https://assetstore.unity.com/packages/3d/props/free-phone-181455
 
 
+
 Audio Used:
 * https://pixabay.com/sound-effects/alarm-clock-short-6402/
 * https://pixabay.com/sound-effects/original-phone-ringtone-36558/
 * https://pixabay.com/sound-effects/heartbeat-6396/
 * https://pixabay.com/sound-effects/main-door-opening-closing-38280/
+* https://pixabay.com/sound-effects/cell-phone-vibrate-in-hand-with-loose-grip-81059/
+* https://pixabay.com/sound-effects/walk-down-sesame-street-acoustic-gtr-loop-91bpm-143350/
+* https://pixabay.com/sound-effects/outdoor-ambience-birds-singing-195618/
+* https://pixabay.com/sound-effects/muffled-talking-6161/
+* https://pixabay.com/sound-effects/female-greetingswav-14750/
+* https://pixabay.com/sound-effects/sound-effect-applause-159315/
 
 Video Used:
 * https://pixabay.com/users/dantegráfico-15862390/?utm_source=link-attribution&utm_medium=referral&utm_campaign=video&utm_content=101953
 
 Image Used:
 * https://www.flaticon.com/free-icon/phone-call_9946341?term=calling&page=1&position=16&origin=search&related_id=9946341
+* https://www.flaticon.com/free-icons/on-off
