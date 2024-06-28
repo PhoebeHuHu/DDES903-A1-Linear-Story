@@ -42,3 +42,11 @@ Video Used:
 Image Used:
 * https://www.flaticon.com/free-icon/phone-call_9946341?term=calling&page=1&position=16&origin=search&related_id=9946341
 * https://www.flaticon.com/free-icons/on-off
+* https://www.freepik.com/free-vector/vintage-achievement-certificate-template-vector-professional-design-blue_20775528.htm#fromView=search&page=1&position=0&uuid=b00b9632-74b5-4ffe-97c5-433bfa9a2377
+* https://www.freepik.com/free-vector/photo-album-concept-illustration_19879565.htm#fromView=search&page=2&position=50&uuid=298330a4-97e6-45b5-b12c-88e86ba87834
+* https://www.freepik.com/free-vector/trophie_2900469.htm#fromView=search&page=1&position=3&uuid=639860e6-0e30-46da-9776-1a05214a76e6
+* https://www.freepik.com/free-vector/pink-skate-pop-art-style-icon-isolated_77147923.htm#fromView=image_search_similar&page=1&position=0&uuid=a36798d5-0de5-4a70-92f8-8af4d3fa4048
+* https://www.freepik.com/free-vector/recipe-book-kitchenware_9457442.htm#fromView=search&page=1&position=22&uuid=4e3a70fb-73b4-445c-87b9-a9e5b8829053
+* https://www.freepik.com/free-photo/vinyl-record-isolated_15024279.htm#fromView=search&page=1&position=0&uuid=5a4b3d7b-058f-4325-927b-6485993707e6
+* https://www.freepik.com/free-vector/blue-little-bird_136481796.htm#fromView=search&page=1&position=2&uuid=6c808a29-fe9a-4ec6-b952-789279589cc9
+* https://www.freepik.com/free-photo/old-used-brown-torn-ticket-stub-isolated_21128704.htm#fromView=image_search_similar&page=1&position=11&uuid=5e1bdfff-0ec6-4dcc-8867-75e63517c4a4
