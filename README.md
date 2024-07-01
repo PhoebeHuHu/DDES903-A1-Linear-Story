@@ -35,6 +35,7 @@ Audio Used:
 * https://pixabay.com/sound-effects/muffled-talking-6161/
 * https://pixabay.com/sound-effects/female-greetingswav-14750/
 * https://pixabay.com/sound-effects/sound-effect-applause-159315/
+* https://pixabay.com/sound-effects/bird-call-38512/
 
 Video Used:
 * https://pixabay.com/users/dantegráfico-15862390/?utm_source=link-attribution&utm_medium=referral&utm_campaign=video&utm_content=101953
